@@ -67,6 +67,8 @@ jsproxy_config({
    *  2.请求不产生 preflight
    */
   direct_hosts: [
+    'yhdsir.github.io',
+    
     // js cdn
     'cdn.jsdelivr.net',
     'unpkg.com',
